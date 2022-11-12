@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1668225713 source:c:\users\pipe\desktop\paralela\main.cpp
+	<stdio.h>
+	<iomanip>
+	<chrono>
+	<math.h>
+	<omp.h>
+	<iostream>
+
