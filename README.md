@@ -2,6 +2,6 @@
 
 
 Integrantes del grupo:
-André Bastián Vigneau Godoy
-Patricio Aguirre Cornejo
-Felipe Jerez Alvarez
+ - André Bastián Vigneau Godoy
+ - Patricio Aguirre Cornejo
+ - Felipe Jerez Alvarez
